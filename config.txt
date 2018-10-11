@@ -1,6 +1,6 @@
-token=NDk5ODYyNzMyMDk1MzU2OTI4.DqCdCw.M8oOFqv9966Pw9XDLHr6-slmjgw
+token=NDk5ODgxMDUyNjMwOTQxNjk2.DqCuGg.fai__82NO3OmZjCGr8yW1Hyl_ro
 owner=464046823162511400
-prefix=Lo
-game=Tybe Lohelp
+prefix=SH
+game=Tybe SHhelp
 stayinchannel=true
 songinstatus=false
